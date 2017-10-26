@@ -1,5 +1,8 @@
 # Di's first comment added in this file under the branch of add-caching
 
+def hello_merge():
+    print("I am learning how to merge on git with Chris")
+
 # OAuth1 Code to access data from the Twitter API...
 import requests_oauthlib
 import webbrowser
